@@ -1,0 +1,112 @@
+body {
+  font-family: 'Anton', sans-serif;
+  font-family: 'Pacifico', cursive;
+  font-family: 'Mada', sans-serif; }
+
+.col-md-4 {
+  text-align: center;
+  height: 1295px;
+  opacity: 0.8;
+  border: 1px solid grey;
+  background-color: #050202; }
+
+.container {
+  border-style: solid;
+  background-color: #DCDCDC;
+  border-radius: 5px;
+  text-align: center;
+  border-color: grey;
+  height: 1300px; }
+
+.col-md-7 {
+  font-size: 21px;
+  height: 1295px;
+  background-color: #8c8c8c; }
+
+img {
+  width: 50%; }
+
+h3 {
+  font-size: 30px;
+  margin-top: 200px; }
+
+h5 {
+  font-size: 25px;
+  margin-top: 50px; }
+
+h1 {
+  font-size: 25px; }
+
+h2 {
+  margin-top: 20px;
+  font-size: 25px;
+  color: white; }
+
+#html {
+  margin-top: 30px;
+  font-size: 20px; }
+
+#css {
+  margin-top: 50px;
+  font-size: 20px; }
+
+#js {
+  margin-top: 50px;
+  font-size: 20px; }
+
+#php {
+  margin-top: 50px;
+  font-size: 20px; }
+
+a {
+  color: white;
+  font-size: 25px; }
+
+#intervention {
+  border: 2px solid grey;
+  background-color: #5F9EA0;
+  border-radius: 4px; }
+
+#fabrication {
+  border: 2px solid grey;
+  background-color: #5F9EA0;
+  border-radius: 4px; }
+
+#maintenance {
+  border: 2px solid grey;
+  background-color: #5F9EA0;
+  border-radius: 4px; }
+
+#aborde {
+  border: 2px solid grey;
+  background-color: #5F9EA0;
+  border-radius: 4px; }
+
+#jeux {
+  border: 2px solid grey;
+  background-color: #5F9EA0;
+  border-radius: 4px;
+  margin-bottom: 20px; }
+
+#obtension {
+  border: 2px solid grey;
+  background-color: #5F9EA0;
+  border-radius: 4px; }
+
+#naissance {
+  border: 2px solid grey;
+  background-color: #5F9EA0;
+  border-radius: 4px; }
+
+#comp {
+  color: white;
+  font-size: 23px;
+  text-align: center; }
+
+#info h1 {
+  color: white; }
+
+#console {
+  border: 2px solid grey;
+  background-color: #5F9EA0;
+  border-radius: 4px; }
